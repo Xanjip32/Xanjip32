@@ -2,7 +2,7 @@
 
 Computer Engineering Student passionate about software development and computer networking.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🚀 About Me
 
@@ -12,7 +12,7 @@ Computer Engineering Student passionate about software development and computer 
 - 🌱 Exploring networking, Linux, and open-source technologies
 - 📚 Always learning and improving
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🛠️ Tech Stack
 
@@ -31,7 +31,7 @@ Computer Engineering Student passionate about software development and computer 
 - VS Code
 - Linux
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🎯 Goals
 
@@ -41,4 +41,4 @@ Computer Engineering Student passionate about software development and computer 
 - Gain hands-on experience with real-world networking
 - Continue improving as a developer
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
