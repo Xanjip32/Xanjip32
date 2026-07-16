@@ -19,7 +19,7 @@ Computer Engineering Student passionate about software development and computer 
 | :--- | :--- | :--- |
 | HTML | MySQL | Git & GitHub |
 | CSS | | VS Code |
-| JavaScript | | Linux |
+| JavaScript | | |
 | PHP | | |
 | Python | | |
 
