@@ -13,23 +13,15 @@ Computer Engineering Student passionate about software development and computer 
 - 📚 Always learning and improving
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## 🛠️ Tech Stack
 
-**Programming Languages**
-- HTML
-- CSS
-- JavaScript
-- PHP
-- Python
-
-**Database**
-- MySQL
-
-**Tools & Technologies**
-- Git & GitHub
-- VS Code
-- Linux
+| Programming Languages | Database | Tools & Technologies |
+| :--- | :--- | :--- |
+| HTML | MySQL | Git & GitHub |
+| CSS | | VS Code |
+| JavaScript | | Linux |
+| PHP | | |
+| Python | | |
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
