@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Sanjeev 👋
 
-<!--
-**Xanjip32/Xanjip32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student passionate about software development and computer networking.
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Currently learning **CCNA** and Computer Networking
+- 💻 Currently learning **Full-Stack Web Development with PHP**
+- 🔨 Building projects to improve my technical skills
+- 🌱 Exploring networking, Linux, and open-source technologies
+- 📚 Always learning and improving
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🛠️ Tech Stack
+
+**Programming Languages**
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Python
+
+**Database**
+- MySQL
+
+**Tools & Technologies**
+- Git & GitHub
+- VS Code
+- Linux
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🎯 Goals
+
+- Master computer networking fundamentals
+- Complete CCNA certification
+- Complete Full Stack Web development certification
