@@ -2,7 +2,8 @@
 
 Computer Engineering Student passionate about software development and computer networking.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ## 🚀 About Me
 
 - 🌐 Currently learning **CCNA** and Computer Networking
@@ -11,7 +12,7 @@ Computer Engineering Student passionate about software development and computer 
 - 🌱 Exploring networking, Linux, and open-source technologies
 - 📚 Always learning and improving
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🛠️ Tech Stack
 
@@ -30,9 +31,14 @@ Computer Engineering Student passionate about software development and computer 
 - VS Code
 - Linux
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ## 🎯 Goals
 
 - Master computer networking fundamentals
 - Complete CCNA certification
-- Complete Full Stack Web development certification
+- Complete Full-Stack web dev with php certification
+- Gain hands-on experience with real-world networking
+- Continue improving as a developer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
